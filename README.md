@@ -34,7 +34,7 @@ O sistema é classificado como de Complexidade Média-Avançada.
 Diferente de um simples CRUD, este projeto lida com a interdependência de dados (ex: uma OS depende de um Cliente e de Peças específicas). A lógica de negócio envolve cálculos de custos, validação de status de serviço e a garantia de que a integridade referencial do banco de dados seja mantida durante todo o ciclo de vida do reparo.
 
 🛠️ Como rodar o projeto
-Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+Clone o repositório: git clone https://github.com/LucasLopes629/Projeto_Assistencia.git
 
 Importe o projeto na sua IDE.
 
