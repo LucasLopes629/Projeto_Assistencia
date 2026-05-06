@@ -1,5 +1,5 @@
 🛠️ Sistema de Gerenciamento de Assistência Técnica
-Este projeto é uma solução robusta desenvolvida em Java para automatizar o fluxo de trabalho de empresas de manutenção e assistência técnica. O foco principal é a organização de ordens de serviço, controle de clientes e gestão de estoque/peças.
+Este projeto pessoal de estudo é uma solução robusta desenvolvida em Java para automatizar o fluxo de trabalho de empresas de manutenção e assistência técnica. O foco principal é a organização de ordens de serviço, controle de clientes e gestão de estoque/peças.
 
 🚀 O que o sistema faz?
 O sistema centraliza todas as operações do dia a dia de uma oficina, permitindo que o técnico foque no reparo enquanto o software cuida do histórico e da organização.
